@@ -1,0 +1,29 @@
+.box_1 {
+    background-color: aqua;
+    width: 200px;
+}
+
+.box_2 {
+    background-color: aqua;
+    width: 2in;
+}
+
+.box_3 {
+    background-color: bisque;
+    width: 6cm;
+}
+
+.box_4 {
+    background-color: aquamarine;
+    width: 60mm;
+}
+
+.box_5 {
+    background-color: blanchedalmond;
+    width: 150pt;
+}
+
+.box_6 {
+    background-color: yellowgreen;
+    width: 20pc;
+}
